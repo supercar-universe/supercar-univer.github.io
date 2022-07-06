@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b418887.css",
+    "main.js": "/static/js/main.fd09df19.js",
+    "static/js/787.1eaa08f8.chunk.js": "/static/js/787.1eaa08f8.chunk.js",
+    "static/media/Logo_Supercar-Universe.webp": "/static/media/Logo_Supercar-Universe.239a512dc0beac202714.webp",
+    "index.html": "/index.html",
+    "main.6b418887.css.map": "/static/css/main.6b418887.css.map",
+    "main.fd09df19.js.map": "/static/js/main.fd09df19.js.map",
+    "787.1eaa08f8.chunk.js.map": "/static/js/787.1eaa08f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b418887.css",
+    "static/js/main.fd09df19.js"
+  ]
+}
