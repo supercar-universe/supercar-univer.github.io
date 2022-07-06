@@ -1,0 +1,26 @@
+@import "../GlobalStyles/GlobalStyles.scss";
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    width: 100%;
+    background: $white;
+    border-radius: 8px;
+    box-shadow: 0 0 2px $textClr;
+    width: 45rem;
+    padding: 20px 20px;
+    color: $textClr;
+    overflow-y: auto;
+    overflow-x: hidden;
+    max-height: 500px;
+    min-height: 137px;
+}
+::-webkit-scrollbar {
+    width: 5px;
+}
+::-webkit-scrollbar-track {
+    background: $graylightClr;
+}
+::-webkit-scrollbar-thumb {
+    background: $mainClr;
+}

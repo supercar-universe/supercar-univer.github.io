@@ -1,0 +1,9 @@
+@import "../../components/GlobalStyles/GlobalStyles.scss";
+.wrapper {
+    @include flex(center);
+    flex-direction: column;
+    overflow-x: hidden;
+}
+.container {
+    width: 1400px;
+}
