@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.cca25bab.css",
-    "main.js": "/static/js/main.c3d3dfe1.js",
+    "main.css": "/static/css/main.0fb4b3dd.css",
+    "main.js": "/static/js/main.2d0dcc14.js",
     "static/js/787.1eaa08f8.chunk.js": "/static/js/787.1eaa08f8.chunk.js",
-    "static/media/Logo_Supercar-Universe_gray.jpg": "/static/media/Logo_Supercar-Universe_gray.0334a85a161c60ad89e2.jpg",
+    "static/media/Logo_Supercar-Universe_gray.webp": "/static/media/Logo_Supercar-Universe_gray.ddf83dc0c06cf2282ad5.webp",
     "index.html": "/index.html",
-    "main.cca25bab.css.map": "/static/css/main.cca25bab.css.map",
-    "main.c3d3dfe1.js.map": "/static/js/main.c3d3dfe1.js.map",
+    "main.0fb4b3dd.css.map": "/static/css/main.0fb4b3dd.css.map",
+    "main.2d0dcc14.js.map": "/static/js/main.2d0dcc14.js.map",
     "787.1eaa08f8.chunk.js.map": "/static/js/787.1eaa08f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cca25bab.css",
-    "static/js/main.c3d3dfe1.js"
+    "static/css/main.0fb4b3dd.css",
+    "static/js/main.2d0dcc14.js"
   ]
 }
